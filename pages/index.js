@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing my bfig<code>pages/index.js</code>
+          Get started by editing my bfig2<code>pages/index.js</code>
         </p>
       </main>
       <Footer />
