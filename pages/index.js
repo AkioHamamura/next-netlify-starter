@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hi! I'm Akio, \n /n <br> currently a Computer Science student, <br>and aspiring software engineer" />
+        <Header title="Hi! I'm Akio, currently a Computer Science student, <br>and aspiring software engineer" />
         
         <p className="description">Get started by editing my big<code>pages/index.js</code></p>
       </main>
