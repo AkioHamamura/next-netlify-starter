@@ -11,7 +11,7 @@ body {
 }
 
 main {
-  background: #5f5f5f;
+  background: #ffffff;
   padding: 5rem 0;
   flex: 1;
   display: flex;
@@ -25,9 +25,6 @@ code {
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
-}
-sometext1{
-  background: #e90e0e;
 }
 
 .container {
