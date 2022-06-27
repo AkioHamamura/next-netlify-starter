@@ -16,7 +16,6 @@ export default function Home() {
           Get started by editing my big<code>pages/index.js</code>
         </p>
       </main>
-      <Footer title="This is a footer" />
       <Footer />
     </div>
   )
