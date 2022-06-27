@@ -15,7 +15,7 @@ main {
   width: auto;
   padding: 5rem 0;
   flex: 1;
-  display: auto;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
