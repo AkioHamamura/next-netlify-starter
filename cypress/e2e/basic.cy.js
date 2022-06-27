@@ -7,11 +7,11 @@ describe('sample test', () => {
   //  cy.get('h1')
   //  .contains('Welcome to my app!');
   //})
-  it('renders the Netlify logo image', () => {
-    cy.get('img')
-    .should('be.visible')
-    .and(($img) => {
-      expect($img[0].naturalWidth).to.be.greaterThan(0);
-    })
-  })
+  //it('renders the Netlify logo image', () => {
+  //  cy.get('img')
+  //  .should('be.visible')
+  //  .and(($img) => {
+  //    expect($img[0].naturalWidth).to.be.greaterThan(0);
+  //  })
+  //})
 })
