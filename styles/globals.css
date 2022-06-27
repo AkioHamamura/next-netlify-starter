@@ -12,9 +12,10 @@ body {
 
 main {
   background: #ffffff;
+  width: auto;
   padding: 5rem 0;
   flex: 1;
-  display: flex;
+  display: auto;
   flex-direction: column;
   justify-content: center;
   align-items: center;
