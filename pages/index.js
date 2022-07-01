@@ -16,7 +16,6 @@ export default function Home() {
           Get started by editing my bfig32<code>pages/index.js</code>
         </p>
       </main>
-      <Footer />
     </div>
   )
 }
