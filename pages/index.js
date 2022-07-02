@@ -17,7 +17,8 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
-        <Image alt="TheStormThatIsApproaching" src='../public/images/Sofie-Chair-White-Iso-copy.png' layout='reponsive' />
+        <Link href="/Headertest"><a>Header</a></Link>
+        
         <SideHeader title="Side Header" />
       </main>
     </div>
