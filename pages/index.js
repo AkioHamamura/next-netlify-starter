@@ -13,13 +13,12 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
         <SideHeader title="Side Header" />
-        <Image src="public/images/Sofie-Chair-White-Iso-copy.png" height={2000} width={2000} alt="TheStormThatIsApproaching"></Image>
+        <Image src="/public/images/Sofie-Chair-White-Iso-copy.png" height={500} width={500} alt="TheStormThatIsApproaching"/>
       </main>
     </div>
 
