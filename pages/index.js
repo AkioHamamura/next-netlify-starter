@@ -15,7 +15,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
-        <SideHeader title="Menu"/>
+        <SideHeader></SideHeader>
       </main>
     </div>
 
