@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 import Link from 'next/link'
 import SideHeader from '@components/SideHeader'
 import { Fragment } from 'react'
-import picTest from '@images/pic-test.jpg'
+import picTest from '@public/images/pic-test.jpg'
 
 export default function Home() {
   return (
