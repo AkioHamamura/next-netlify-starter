@@ -19,7 +19,7 @@ export default function Home() {
         <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
         <SideHeader title="Side Header" />
-        <Image src="public/images/Sofie-Chair-White-Iso-copy.png" alt="TheStormThatIsApproaching"></Image>
+        <Image src="public/images/Sofie-Chair-White-Iso-copy.png" height={300} width={300} alt="TheStormThatIsApproaching"></Image>
       </main>
     </div>
 
