@@ -13,12 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing my bfig32<code>pages/index.js</code>
-        </p>
-       
-      </main>
-      <link href="/about" rel="next" />
+          Get started by editing my bfig32<code>pages/index.js</code></p>
+        <div><p classname="linktoAbout"><link href="/about" rel="next" /></p></div>
       
+      </main>
     </div>
 
 
