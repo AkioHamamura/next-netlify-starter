@@ -25,6 +25,13 @@ export default function HeaderTest() {
      .navnav {
            display: inline;
      }
+
+     .navnav li {
+          display: inline-block;
+          padding: inherit;
+
+
+     }
       `}</style>
 
     </div>
