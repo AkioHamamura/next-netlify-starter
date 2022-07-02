@@ -5,9 +5,11 @@ export default function HeaderTest() {
      return (
      //make the div element inline so it can be styled
      <div className="header1">
-     
-      <Link href="/"><a><h1>About me</h1></a></Link><Link href="/"><a><h1>About me2</h1></a></Link><Link href="/"><a><h1>About me3</h1></a></Link>
-
+     <ul className="navnav">
+     <li><Link href="/"><a><h1>About me</h1></a></Link></li>
+     <li><Link href="/"><a><h1>About me2</h1></a></Link></li>
+     <li> <Link href="/"><a><h1>About me3</h1></a></Link></li>
+     </ul>
       <style jsx>{`
         .container {
           margin: 50px;
@@ -19,6 +21,9 @@ export default function HeaderTest() {
         .Header1 {
           color: red;
           display: inline;
+     }
+     .navnav {
+           display: inline;
      }
       `}</style>
 
