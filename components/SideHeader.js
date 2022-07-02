@@ -1,3 +1,5 @@
+import styles from './SideHeaderStyles.css';
+
 export default function SideHeader({}) {
   return (
     <ul>
