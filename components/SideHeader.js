@@ -1,4 +1,4 @@
-import styles from './SideHeaderStyles.module.css';
+import './SideHeaderStyles.module.css';
 
 export default function SideHeader({}) {
   return (
