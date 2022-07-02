@@ -15,11 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing my bfig32<code>pages/index.js</code>
         </p>
-        //create a link to the about page
-        <h1><link href="/about" rel="next" /></h1>
-    
-
+       
       </main>
+      <link href="/about" rel="next" />
+      
     </div>
+
+
   )
 }
