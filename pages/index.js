@@ -4,6 +4,8 @@ import Footer from '@components/Footer'
 import Link from 'next/link'
 import SideHeader from '@components/SideHeader'
 import { Fragment } from 'react'
+import Image from 'next/image'
+import testPic from '../public/images/Sofie-Chair-White-Iso-copy.png'
 
 export default function Home() {
   return (
@@ -16,6 +18,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
+        <Image alt="TheStormThatIsApproaching" src={testPic}/>
         <SideHeader title="Side Header" />
       </main>
     </div>
