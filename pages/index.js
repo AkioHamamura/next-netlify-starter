@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">Get started by editing my bfig32<code>pages/index.js</code></p>
+        <p className="description">testsGet started by editing my bfig32<code>pages/index.js</code></p>
         <Link href="/about"><a>About</a></Link>
         <Link href="/Headertest"><a>Header</a></Link>
         
